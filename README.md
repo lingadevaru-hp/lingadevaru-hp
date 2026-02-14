@@ -1,16 +1,20 @@
-## Hi there 👋
+# Lingadevaru HP (lingadevaruhp)
 
-<!--
-**lingadevaru-hp/lingadevaru-hp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software projects and document them clearly.
 
-Here are some ideas to get you started:
+## Featured Public Projects
+- Online: https://lingadevaru-hp.github.io
+- sit-scholar: https://github.com/lingadevaru-hp/sit-scholar
+- foss-coin: https://github.com/lingadevaru-hp/foss-coin
+- foss-coin-v2: https://github.com/lingadevaru-hp/foss-coin-v2
+- fossplay: https://github.com/lingadevaru-hp/fossplay
+- localpulse: https://github.com/lingadevaru-hp/localpulse
+- search-engine: https://github.com/lingadevaru-hp/search-engine
+- memory-grid-game: https://github.com/lingadevaru-hp/memory-grid-game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Private Work
+Some projects are kept private. Public summaries are here:
+- https://github.com/lingadevaru-hp/private-projects-showcase
+
+## Contact
+- Email: contact@lingadevaru.in
