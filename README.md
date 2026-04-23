@@ -20,7 +20,9 @@
 </p>
 
 
-🦊 check out my gitlab projects <a href="https://gitlab.com/lingadevaruhp">click here</a>
+🦊 check out my gitlab projects <a href="https://gitlab.com/lingadevaruhp">click here< <a href="https://gitlab.com/lingadevaruhp" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="30" width="40" />
+</a> /a>
 ---
 
 - 🌱 diving deep into **docker** and **kubernetes**
@@ -48,11 +50,6 @@ https://github.com/lingadevaru-hp?tab=repositories
 ## 🌐 connect with me
 
 <p>
-
-  <a href="https://gitlab.com/lingadevaruhp" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="30" width="40" />
-</a>
-
   <a href="https://x.com/lingadevaruhp">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
   </a>&nbsp;&nbsp;
@@ -72,6 +69,10 @@ https://github.com/lingadevaru-hp?tab=repositories
   <a href="https://huggingface.co/lingadevaruhp">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30"/>
   </a>
+
+<a href="https://gitlab.com/lingadevaruhp" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="30" width="40" />
+</a>
 </p>
 
 ---
