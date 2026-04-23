@@ -19,10 +19,18 @@
   </a>
 </p>
 
+---
 
-🦊 check out my gitlab projects <a href="https://gitlab.com/lingadevaruhp">click here< <a href="https://gitlab.com/lingadevaruhp" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="30" width="40" />
-</a> /a>
+## 🦊 GitLab
+<p>
+  check out my gitlab projects 👉 
+  <a href="https://gitlab.com/lingadevaruhp">click here</a>
+  &nbsp;&nbsp;
+  <a href="https://gitlab.com/lingadevaruhp">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" height="30"/>
+  </a>
+</p>
+
 ---
 
 - 🌱 diving deep into **docker** and **kubernetes**
@@ -68,11 +76,11 @@ https://github.com/lingadevaru-hp?tab=repositories
 
   <a href="https://huggingface.co/lingadevaruhp">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30"/>
-  </a>
+  </a>&nbsp;&nbsp;
 
-<a href="https://gitlab.com/lingadevaruhp" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="30" width="40" />
-</a>
+  <a href="https://gitlab.com/lingadevaruhp">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" height="30"/>
+  </a>
 </p>
 
 ---
