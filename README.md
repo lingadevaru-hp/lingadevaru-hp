@@ -6,7 +6,7 @@
 <h3 align="center">just a tech nerd from india chasing the next big thing in code and cloud</h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAC/computer-nerds.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/lingadevaru-hp/foss/refs/heads/main/raw/ezgif-69987fc746489d99.gif" width="400"/>
 </p>
 
 <p align="center">
