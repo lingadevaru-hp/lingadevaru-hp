@@ -1,4 +1,4 @@
-# Hey there 👋 i'm lingadevaru hp
+# lingadevaru hp
 
 [![MasterHead](https://raw.githubusercontent.com/lingadevaru-hp/Foss-Token/refs/heads/main/Thumbnail.gif)](https://lingadevaru-hp.io)
 
