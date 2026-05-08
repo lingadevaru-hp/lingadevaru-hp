@@ -1,8 +1,8 @@
 # Lingadevaru HP
 
-[![MasterHead](https://raw.githubusercontent.com/lingadevaru-hp/foss/refs/heads/main/raw/ezgif-69987fc746489d99.gif)](https://lingadevaru-hp.io)
+[![MasterHead](https://raw.githubusercontent.com/lingadevaru-hp/Foss-Token/refs/heads/main/Thumbnail.gif)](https://lingadevaru-hp.io)
 
-<h1 align="center">hey there 👋 i'm lingadevaru hp</h1>
+<h1 align="center">Hey there 👋 i'm lingadevaru hp</h1>
 <h3 align="center">just a tech nerd from india chasing the next big thing in code and cloud</h3>
 
 <p align="center">
