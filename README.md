@@ -1,7 +1,5 @@
 # lingadevaru hp
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=lingadevaru%20hp&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=tech%20nerd%20%7C%20cloud%20%7C%20open%20source&descAlignY=55&descAlign=50) 
-
 [![MasterHead](https://raw.githubusercontent.com/lingadevaru-hp/Foss-Token/refs/heads/main/Thumbnail.gif)](https://lingadevaru-hp.io)
 
 
